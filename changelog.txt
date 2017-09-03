@@ -1,0 +1,7 @@
+CHANEGELOG
+
+v1.1
+-Fixed bug showing wrong even when input was correct
+
+v1.0
+-Initial release
