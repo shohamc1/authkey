@@ -1,5 +1,11 @@
 CHANEGELOG
 
+v1.2
+-Separated game and dev mode (dev mode prints the generated string)
+-Created loop to give more than one chance to guess
+-Added binary
+-Improved readability
+
 v1.1
 -Fixed bug showing wrong even when input was correct
 
